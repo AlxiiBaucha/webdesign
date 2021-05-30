@@ -1,0 +1,67 @@
+.container{
+	padding: auto auto;
+}
+.item-grid{
+	padding: 20px;
+	border-radius: 0px 10px 0px 10px;
+	border: 1px solid black;
+	margin: 1px
+}
+.item-grid img{
+	
+	box-shadow: 2px 2px 30px;
+	border-radius: 0px 30px 0px 30px;
+}
+.social {
+
+	padding-left: 10px;
+    line-height: 0;
+    margin-top: 1.5rem;
+    margin-bottom: 1.375rem;
+}
+.card-info{
+	border-radius: 0px 0px 0px 0px;
+	border: 1px solid black;
+}
+.card-info h2{
+	font-size: 30px;
+	margin: 10px;
+	text-shadow: 2px 2px 5px red;
+}
+.card-info h4{
+	font-size: 25px;
+	margin: 10px;
+	text-shadow: 2px 2px 5px red;
+}
+.card-info p{
+	font-size: 22px;
+	color:brown;
+}
+.hi{
+	padding-left: 20px;
+	font-size: 20px;
+	text-shadow: 2px 2px 5px red;
+}
+.col{
+	float: left;
+	width: 30%;
+	padding-top:5px;
+	padding-bottom: 10px;
+  }
+  .row::after{
+	content: "";
+	clear: both;
+	display: table;
+  }
+  .section {
+    margin-top: 1.8125rem;
+    padding: .1px 0;
+}
+.case-item__icon {
+
+	margin-left: 3rem;
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-bottom: 1rem;
+    border-radius: 0px 0px 0px 0px;
+}
